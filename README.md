@@ -6,4 +6,4 @@ Selected source files from the VA-Sync project:
 - `src/vasync/core/message.py`: structured reasoning nodes and sync messages.
 - `src/vasync/value/cos_gate.py`: Cos-Gate scoring over incremental windows.
 
-Empty `src/vasync/agents/`, `configs/`, and `experiments/` directories show the project structure. This is a partial source release, not a standalone runnable package.
+Empty `src/vasync/agents/`, `configs/`, and `experiments/` directories show the project structure. This repository currently contains only a few selected implementation files. Additional code will be released gradually.
